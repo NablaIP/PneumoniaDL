@@ -1,0 +1,7 @@
+matplotlib
+pandas
+notebook
+opencv-python=4.4.0.46
+torch
+torchvision
+tensorboard
